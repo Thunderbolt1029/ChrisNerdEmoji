@@ -25,7 +25,7 @@ namespace ChrisNerdEmoji
             _client = new DiscordSocketClient();
             _client.Log += Log;
 
-            var token = "MTA3Nzc0MDk4MDQwMjQwOTU3Mw.GdtHNN.h9cm9USGtSuVNUNmTAKMGyj_NWKdsJ85R7ozsA";
+            var token = File.ReadAllText("../../../../token.txt");
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();
 
