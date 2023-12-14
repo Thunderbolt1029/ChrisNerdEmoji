@@ -1,0 +1,108 @@
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ChrisNerdEmoji.exe.config
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ChrisNerdEmoji.exe
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ChrisNerdEmoji.pdb
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Commands.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Core.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Rest.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Buffers.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Collections.Immutable.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Interactive.Async.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Linq.Async.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Memory.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Reactive.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.ValueTuple.dll
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Commands.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Core.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Rest.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Buffers.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Collections.Immutable.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Interactive.Async.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Linq.Async.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Memory.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Reactive.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.ValueTuple.xml
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.csproj.AssemblyReference.cache
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.csproj.SuggestedBindingRedirects.cache
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.csproj.CoreCompileInputs.cache
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.csproj.CopyComplete
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.exe
+C:\Users\zacat\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.pdb
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ChrisNerdEmoji.exe.config
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ChrisNerdEmoji.exe
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ChrisNerdEmoji.pdb
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Core.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Interactions.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Buffers.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Interactive.Async.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Linq.Async.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Memory.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Reactive.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.ValueTuple.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Core.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Buffers.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Interactive.Async.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Linq.Async.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Memory.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Reactive.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\System.ValueTuple.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.csproj.AssemblyReference.cache
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.csproj.CoreCompileInputs.cache
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.csproj.CopyComplete
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.exe
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\obj\Debug\ChrisNerdEmoji.pdb
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.Dynamic.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.Windows.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.Windows.Grasp.2.0.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.Windows.Grasp.3.5.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.Dynamic.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.Windows.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.Windows.Grasp.2.0.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\Codeer.Friendly.Windows.Grasp.3.5.xml
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ja\Codeer.Friendly.resources.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ja\Codeer.Friendly.Dynamic.resources.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ja\Codeer.Friendly.Windows.resources.dll
+C:\Users\Zacat\OneDrive - Shared with Laptop\OneDrive\codnig\ChrisNerdEmoji\ChrisNerdEmoji\bin\Debug\ja\Codeer.Friendly.Windows.Grasp.2.0.resources.dll
